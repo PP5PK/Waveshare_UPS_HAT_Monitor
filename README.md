@@ -20,21 +20,7 @@ A terminal-based monitoring script for the [Waveshare UPS HAT (C)](https://www.w
 
 ## Preview
 
-```
-╔═════════════════════╗
-║   Waveshare UPS HAT (C) Monitor   ║
-╠═════════════════════╣
-║  PSU Voltage             4.023 V  ║
-║  Shunt Voltage        0.001240 V  ║
-║  Load Voltage            4.021 V  ║
-║  Current               -0.3420 A  ║
-║  Power                   1.358 W  ║
-╠═════════════════════╣
-║  █████████░░░░░░    76.3%  ║
-║  Status               On battery  ║
-║  Runtime                  9h 28m  ║
-╚═════════════════════╝
-```
+![UPS HAT (C) Monitor](https://cloud.dvbr.net/images/UPS_HAT_C_Monitor.jpg)
 
 ---
 
