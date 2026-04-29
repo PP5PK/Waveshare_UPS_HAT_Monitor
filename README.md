@@ -67,8 +67,8 @@ sudo raspi-config
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/ups-hat-c-monitor.git
-cd ups-hat-c-monitor
+git clone https://github.com/PP5PK/Waveshare_UPS_HAT_Monitor.git
+cd Waveshare_UPS_HAT_Monitor
 ```
 
 No additional dependencies beyond `smbus`, which is available in the default Raspberry Pi OS repositories.
