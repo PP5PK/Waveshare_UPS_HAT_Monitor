@@ -131,7 +131,7 @@ The grace counter prevents a spurious shutdown caused by momentary voltage dips.
 
 ## License
 
-MIT — feel free to use, modify, and distribute.
+Released under the **The Unlicense** License. See [`LICENSE`](LICENSE) for details.
 
 ---
 
